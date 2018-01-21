@@ -1,13 +1,14 @@
-# Monero GUI
+# Moneda GUI
 
-Copyright (c) 2014-2017, The Monero Project
+Copyright (c) 2018 Moneda Digital.                    
+Portions Copyright (c) 2014-2017 The Monero Project.   
 
 ## Development resources
 
-- Web: [getmonero.org](https://getmonero.org)
-- Forum: [forum.getmonero.org](https://forum.getmonero.org)
-- Mail: [dev@getmonero.org](mailto:dev@getmonero.org)
-- Github: [https://github.com/monero-project/monero-gui](https://github.com/monero-project/monero-gui)
+- Web: [moneda.mx](https://moneda.mx)
+- Forum: [forum.moneda.mx](https://forum.moneda.mx)
+- Mail: [dev@moneda.mx](mailto:dev@moneda.mx)
+- GitHub: [https://github.com/monedadigital/moneda](https://github.com/monedadigital/moneda)
 - IRC: [#monero-dev on Freenode](irc://chat.freenode.net/#monero-dev)
 
 ## Vulnerability response
